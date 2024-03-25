@@ -1,0 +1,297 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.19f1 (244b723c30a6) revision 2378610'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Core' Language: 'en' Physical Memory: 15731 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.19f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/gvina/OneDrive/Documents/Critical-Political/GameJamCriticalPolitical
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+58147
+Successfully changed project path to: C:/Users/gvina/OneDrive/Documents/Critical-Political/GameJamCriticalPolitical
+C:/Users/gvina/OneDrive/Documents/Critical-Political/GameJamCriticalPolitical
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [45852] Host "[IP] 192.168.1.2 [Port] 0 [Flags] 2 [Guid] 2095015298 [EditorId] 2095015298 [Version] 1048832 [Id] WindowsEditor(7,GavinLaptop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [45852] Host "[IP] 192.168.1.2 [Port] 0 [Flags] 2 [Guid] 2095015298 [EditorId] 2095015298 [Version] 1048832 [Id] WindowsEditor(7,GavinLaptop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
+Refreshing native plugins compatible for Editor in 13.27 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.19f1 (244b723c30a6)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/gvina/OneDrive/Documents/Critical-Political/GameJamCriticalPolitical/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   NVIDIA
+    VRAM:     5966 MB
+    Driver:   31.0.15.5123
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56500
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.015947 seconds.
+- Loaded All Assemblies, in  0.479 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 347 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.786 seconds
+Domain Reload Profiling: 1262ms
+	BeginReloadAssembly (170ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (76ms)
+	LoadAllAssembliesAndSetupDomain (180ms)
+		LoadAssemblies (168ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (176ms)
+			TypeCache.Refresh (174ms)
+				TypeCache.ScanAssembly (156ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (786ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (722ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (493ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (155ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.154 seconds
+Refreshing native plugins compatible for Editor in 13.11 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.108 seconds
+Domain Reload Profiling: 2255ms
+	BeginReloadAssembly (230ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (817ms)
+		LoadAssemblies (705ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (268ms)
+			TypeCache.Refresh (226ms)
+				TypeCache.ScanAssembly (199ms)
+			ScanForSourceGeneratedMonoScriptInfo (34ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1108ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (836ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (41ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (100ms)
+			ProcessInitializeOnLoadAttributes (635ms)
+			ProcessInitializeOnLoadMethodAttributes (46ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 12.53 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4050 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 70 unused Assets / (245.1 KB). Loaded Objects now: 4509.
+Memory consumption went from 154.7 MB to 154.5 MB.
+Total: 4.329600 ms (FindLiveObjects: 0.396800 ms CreateObjectMapping: 0.164200 ms MarkObjects: 3.536500 ms  DeleteObjects: 0.230900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 157801.736709 seconds.
+  path: Assets/Music/Free Cinematic Music Pack
+  artifactKey: Guid(150e247be4b34f343b556eff953eb7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Music/Free Cinematic Music Pack using Guid(150e247be4b34f343b556eff953eb7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5135db35b8090e3b9287e5adfe3d6777') in 0.002308 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Music/Free Cinematic Music Pack/Darkness.wav
+  artifactKey: Guid(eca337dbcb515e449b7565f9956efd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Music/Free Cinematic Music Pack/Darkness.wav using Guid(eca337dbcb515e449b7565f9956efd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e6528047e6a4556c936f4453543e841') in 0.076097 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Music/Free Cinematic Music Pack/Loss.wav
+  artifactKey: Guid(c273d0785f9644846842ea705ae7c943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Music/Free Cinematic Music Pack/Loss.wav using Guid(c273d0785f9644846842ea705ae7c943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da59e3e7ba441f6edf0b7319be25724') in 0.012719 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 150.106085 seconds.
+  path: Assets/Free Ambient Instrumental Music/1Strings
+  artifactKey: Guid(ed80cc2ffe89ae94db2eee08836ca3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Ambient Instrumental Music/1Strings using Guid(ed80cc2ffe89ae94db2eee08836ca3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae990f56fa7a5aa2f398aeec6b7ec5d5') in 0.001002 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.063559 seconds.
+  path: Assets/Free Ambient Instrumental Music/1Strings/Strings.wav
+  artifactKey: Guid(b4e03b819912ca746b68c6610bd537b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Ambient Instrumental Music/1Strings/Strings.wav using Guid(b4e03b819912ca746b68c6610bd537b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c78b8cfe5c0c01e25f7f1058299fdbf6') in 0.471856 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Free Ambient Instrumental Music/1Strings/Strings3.wav
+  artifactKey: Guid(a98a2050900001c4682a518b5c3fd5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Ambient Instrumental Music/1Strings/Strings3.wav using Guid(a98a2050900001c4682a518b5c3fd5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4053d6119c794636e9d2dfd3e892642c') in 1.501970 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 25.769568 seconds.
+  path: Assets/Free Ambient Instrumental Music/2Woodwinds
+  artifactKey: Guid(89104b6bdd9123948828731a10e8ac98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Ambient Instrumental Music/2Woodwinds using Guid(89104b6bdd9123948828731a10e8ac98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2c3fdb0346cbc718736ac548bd0cf24') in 0.000701 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.039844 seconds.
+  path: Assets/Free Ambient Instrumental Music/2Woodwinds/Woodwinds.wav
+  artifactKey: Guid(fb00ea2db68b94943a2537f68df56678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Ambient Instrumental Music/2Woodwinds/Woodwinds.wav using Guid(fb00ea2db68b94943a2537f68df56678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5418fbd3e8b8f0659fa9b943e76ce2c8') in 0.358105 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Free Ambient Instrumental Music/2Woodwinds/Woodwinds3.wav
+  artifactKey: Guid(c68403026d884774d85edda580b3f64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Ambient Instrumental Music/2Woodwinds/Woodwinds3.wav using Guid(c68403026d884774d85edda580b3f64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0c8792a0895f26b876d5a525ef33741') in 0.493395 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Free Ambient Instrumental Music/2Woodwinds/Woodwinds2.wav
+  artifactKey: Guid(5dc83e7b35f0c844d8facfb119a92514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Ambient Instrumental Music/2Woodwinds/Woodwinds2.wav using Guid(5dc83e7b35f0c844d8facfb119a92514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c54b978d0004ab4bbe8b3996749e634') in 0.366628 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Free Ambient Instrumental Music/2Woodwinds/Woodwinds4.wav
+  artifactKey: Guid(039ad8366564ddb4285a35b0ecafaa1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Ambient Instrumental Music/2Woodwinds/Woodwinds4.wav using Guid(039ad8366564ddb4285a35b0ecafaa1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90b96b12e6986d7bfff7deade894a0bf') in 0.864820 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 40.729080 seconds.
+  path: Assets/Free Ambient Instrumental Music/3Piano/Piano.wav
+  artifactKey: Guid(caf04ce96f2fb5143b09f570ac3cd563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Ambient Instrumental Music/3Piano/Piano.wav using Guid(caf04ce96f2fb5143b09f570ac3cd563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f57448358ea07d7571e1c77f9bdd9f8') in 0.414973 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Free Ambient Instrumental Music/3Piano/Piano4.wav
+  artifactKey: Guid(adbb8769396311c439a773d4679dca13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Ambient Instrumental Music/3Piano/Piano4.wav using Guid(adbb8769396311c439a773d4679dca13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fc3829d4cb48a5bc541463ca292a8c4') in 0.731627 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

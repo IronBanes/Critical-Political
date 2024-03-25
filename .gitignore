@@ -1,0 +1,20 @@
+# Unity specific
+Temp/
+Library/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Visual Studio temporary files
+.vs/
+*.user
+*.userprefs
+*.suo
+*.sln.cache
+*.suo
+*.csproj.user
+*.pidb
+
+# Other temporary files
+*.tmp
